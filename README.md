@@ -11,7 +11,7 @@ This part is for info about the project
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
- [PlDb]: <[https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md](https://www.baseball-reference.com/leagues/majors/2024-standard-batting.shtml)>
+ [PlDb]: <https://www.baseball-reference.com/leagues/majors/2024-standard-batting.shtml)>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
