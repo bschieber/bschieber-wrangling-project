@@ -2,7 +2,7 @@
 Data Wrangling Project
 This part is for info about the project
 
-| Plugin | README | 
+| Website | Link | 
 | ------ | ------ |
 | Scraped Website | [plugins/dropbox/README.md][PlDb] |
 
